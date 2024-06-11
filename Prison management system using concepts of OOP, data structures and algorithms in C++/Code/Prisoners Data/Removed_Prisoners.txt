@@ -1,0 +1,60 @@
+
+D2
+name1
+23
+6'1"
+200 lbs
+3 years
+March 2021, 2022
+March 2021, 2025
+hit and run
+rel
+22
+rel2
+23
+0
+Time of release: Tue Dec  5 11:46:34 2023
+
+G1
+yada
+12
+23'2"
+12 lbs
+forever
+april 23, 2002
+Life without parole
+yada
+oooooo
+123
+eeeeeee
+123
+0
+Time of release: Wed Dec  6 02:55:45 2023
+
+D1
+asd
+asd
+asd'asd"
+asd lbs
+2 years
+April 3, 2002
+April 3, 2004
+qwewer
+qwe
+123
+qwe
+123
+0
+Time of release: Wed Dec  6 17:24:48 2023
+
+A2
+miqdad
+23
+4'5"
+234 lbs
+3 months
+May 23, 2009
+August 23, 2009
+hit and run
+0
+Time of release: Thu Dec  7 15:56:13 2023

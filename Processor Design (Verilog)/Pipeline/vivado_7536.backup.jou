@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jun  7 17:02:07 2024
+# Process ID: 7536
+# Current directory: B:/All Books and lectures/Semester 4th/Computer Architecture and organisation lab/Labs/open ended lab/oel
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13268 B:\All Books and lectures\Semester 4th\Computer Architecture and organisation lab\Labs\open ended lab\oel\oel.xpr
+# Log file: B:/All Books and lectures/Semester 4th/Computer Architecture and organisation lab/Labs/open ended lab/oel/vivado.log
+# Journal file: B:/All Books and lectures/Semester 4th/Computer Architecture and organisation lab/Labs/open ended lab/oel\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {B:/All Books and lectures/Semester 4th/Computer Architecture and organisation lab/Labs/open ended lab/oel/oel.xpr}
+update_compile_order -fileset sources_1
