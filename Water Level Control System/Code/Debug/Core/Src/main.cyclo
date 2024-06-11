@@ -1,0 +1,12 @@
+../Core/Src/main.c:87:6:microDelay	2
+../Core/Src/main.c:93:9:DHT11_Start	5
+../Core/Src/main.c:124:9:DHT11_Read	7
+../Core/Src/main.c:150:6:GPIO_Init	1
+../Core/Src/main.c:161:6:TIM2_us_Delay	2
+../Core/Src/main.c:170:6:Moisture_Sensor	5
+../Core/Src/main.c:227:5:main	3
+../Core/Src/main.c:364:6:SystemClock_Config	3
+../Core/Src/main.c:411:13:MX_ADC1_Init	3
+../Core/Src/main.c:463:13:MX_TIM1_Init	4
+../Core/Src/main.c:509:13:MX_GPIO_Init	1
+../Core/Src/main.c:568:6:Error_Handler	1
